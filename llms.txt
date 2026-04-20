@@ -1,0 +1,26 @@
+# SCT - Subhadip Cyber Technology
+
+> SCT is a boutique creative studio delivering bespoke web development, Android app development, cinematic video editing, and striking graphic design for businesses worldwide.
+
+## About Us
+Founded in 2025 by Subhadip Satpati, SCT provides high-quality, affordable digital support to small and medium-sized businesses. From responsive landing pages to complex MERN stack applications, we bring technical precision and creative vision to every project.
+
+## Leadership & Team
+- **Subhadip Satpati**: Founder & CEO
+- **Sanjay Ranjit**: Co-Founder
+- **Ipsita Patra**: Team Head
+- **Indranil Shyamal**: Admin
+- **Sakriya Ghosh**: Adviser of Board
+
+## Core Services
+1. **Website Development**: Handcrafted, pixel-perfect websites using HTML, CSS, JS, and the MERN stack.
+2. **Playstore App Development**: Robust and scalable mobile applications optimized and ready for deployment on the Google Playstore.
+3. **Video Editing**: Cinematic cuts, smooth transitions, and compelling visual storytelling.
+4. **Graphics Designing**: Brand identities, social visuals, and memorable designs rooted in strategic business thinking.
+
+## Contact Information
+- **Email**: subhadipcybertech.info@gmail.com
+- **WhatsApp / Phone**: +91 81459 94741
+- **Location**: Contai, Purba Medinipur, West Bengal, India, 721401
+- **Office Hours**: Monday - Friday, 10:00 AM to 10:00 PM (Closed Sat-Sun)
+- **Official Website**: https://subhadipcyber.github.io/
