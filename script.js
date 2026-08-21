@@ -674,12 +674,13 @@ document.addEventListener('DOMContentLoaded', fetchUpdates);
 
 
 // ======================== AGOMONI AI CHATBOT ENGINE ========================
-const _k1 = "gsk_j0PbrfP";
-const _k2 = "dv2yRiXnepe";
-const _k3 = "YzWGdyb3FYAe";
-const _k4 = "yFm9qRks7ESf";
-const _k5 = "fg9ELTNRJJ";
+const _k1 = "gsk_Zou0nR8n";
+const _k2 = "vs6zPj4w1v3";
+const _k3 = "LWGdyb3FYNK";
+const _k4 = "Od4jB7GmezW";
+const _k5 = "bWEgd3J0GWG";
 const GROQ_API_KEY = _k1 + _k2 + _k3 + _k4 + _k5;
+
 
 const chatToggle = document.getElementById('agomoni-chat-toggle');
 const chatWindow = document.getElementById('agomoni-chat-window');
