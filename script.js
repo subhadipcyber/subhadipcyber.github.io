@@ -674,7 +674,7 @@ document.addEventListener('DOMContentLoaded', fetchUpdates);
 
 
 // ======================== AGOMONI AI CHATBOT ENGINE ========================
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 
 
 const chatToggle = document.getElementById('agomoni-chat-toggle');
